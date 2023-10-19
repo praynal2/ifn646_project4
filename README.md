@@ -1,6 +1,6 @@
 # ifn646_project4
 
-This project is part of the QUT University course, within the IFN646 (Biomedical Data science) module. 
+This project is part of the QUT University formation, within the IFN646 (Biomedical Data science) unit. 
 
 The aim here is to propose a model for classifying mammography images from the DDSM database.
 
