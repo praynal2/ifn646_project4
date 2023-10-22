@@ -17,6 +17,6 @@ This directory contains the elements essential to the reproducibility of our sol
   - a script giving our dataset construction methods from the DDSM database API
 
 - **CNN**
-  - TO DO
+  - A CNN model (notebook) 
 
 
