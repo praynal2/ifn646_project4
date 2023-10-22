@@ -17,6 +17,9 @@ This directory contains the elements essential to the reproducibility of our sol
   - a script giving our dataset construction methods from the DDSM database API
 
 - **CNN**
-  - A CNN model (notebook) 
-You can find the CBIS-DDSM dataset [here](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=22516629). 
+  - A CNN model (notebook)
+ 
+- **CBIS-DDSM Dataset**
+- You can find the CBIS-DDSM dataset [here](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=22516629).
+- Cropped Image files were used for CNN model 
 
