@@ -18,5 +18,5 @@ This directory contains the elements essential to the reproducibility of our sol
 
 - **CNN**
   - A CNN model (notebook) 
-
+You can find the CBIS-DDSM dataset [here](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=22516629). 
 
